@@ -1,0 +1,16 @@
+I see that no longer as a problem
+I should write >> in order to keep the content intact
+./
+../
+.git/
+README.md
+about.html
+catted.txt
+css/
+file.txt
+file2.txt
+images/
+index.html
+sorted.txt
+tasks.txt
+temp_images/

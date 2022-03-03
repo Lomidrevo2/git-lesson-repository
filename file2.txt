@@ -1,0 +1,13 @@
+./
+../
+.git/
+README.md
+about.html
+catted.txt
+css/
+file.txt
+file2.txt
+images/
+index.html
+tasks.txt
+temp_images/
